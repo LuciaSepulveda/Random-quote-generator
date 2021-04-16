@@ -52,7 +52,7 @@ const App: React.FC = () => {
               Random
             </Button>
           </HStack>
-          <VStack m="auto" ml={["5%", "auto"]} mt={["-10%", "15%", "10"]} w="50%">
+          <VStack m="auto" ml={["5%", "auto"]} mt={["-10%", "5%", "10"]} w="50%">
             <Text color="#4F4F4F" fontSize={["18px", "24px"]} fontWeight="bold" lineHeight="28px">
               {quote.quoteAuthor}
             </Text>
