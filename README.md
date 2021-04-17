@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Random Quote Generator}</h1>
+<h1 align="center">Random Quote Generator</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](/src/assets/screenshot.png)
+![screenshot](https://github.com/LuciaSepulveda/Random-quote-generator/blob/master/src/assets/Screenshot.png)
 
 ### Built With
 
@@ -76,8 +76,7 @@ $ yarn run start
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/LuciaSepulveda})
+- GitHub [@LuciaSepulveda](https://{github.com/LuciaSepulveda})
