@@ -25,3 +25,11 @@ export function viewStatus(): Context["viewStatus"]["statusNow"] {
 
   return statusNow
 }
+
+export function useQuotes(): Context["state"]["quotes"] {
+  const {
+    state: {quotes},
+  } = React.useContext(UserContext)
+
+  return quotes
+}
